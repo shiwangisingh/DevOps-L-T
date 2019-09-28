@@ -1,5 +1,6 @@
-Java is an object oriented programming languagewhich was released in 1995.
-Java was devloped by Oracle
-Java was acquired by Sun MicroSystem
+
+Java is an object oriented programming language and was devloped under James in 1995.
+Java was devloped by Sun MicroSystem
+Java was acquired by Oracle
 There are 15 versions of Java
 Java is a robust and secure language
